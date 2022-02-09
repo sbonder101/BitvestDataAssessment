@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Studentcli\\": "lib/",
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "pear/console_table": "^1.3"
+  }
+}
